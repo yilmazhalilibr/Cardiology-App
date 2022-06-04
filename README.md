@@ -1,6 +1,7 @@
-# kardiyoloji
+# Cardiology-App
 
-A new Flutter project.
+
+Cardiology-App
 
 ## Getting Started
 
